@@ -1,0 +1,20 @@
+<svg width="1280" height="960" viewBox="0 0 1280 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="960" rx="40" fill="#E8DFCF"/>
+  <rect x="42" y="42" width="1196" height="876" rx="30" fill="#F7F2E8" stroke="#D6CAB8" stroke-width="4"/>
+  <rect x="104" y="104" width="470" height="288" rx="28" fill="#1F6B54"/>
+  <text x="152" y="186" fill="#F7F2E8" font-size="42" font-family="Palatino Linotype, STSong, serif">This site is for</text>
+  <text x="152" y="244" fill="#F7F2E8" font-size="28" font-family="Segoe UI, Microsoft YaHei, sans-serif">thoughts / projects / direction</text>
+  <rect x="636" y="104" width="540" height="188" rx="28" fill="#FFFDF7" stroke="#D6CAB8" stroke-width="4"/>
+  <text x="686" y="178" fill="#17201B" font-size="32" font-family="Segoe UI, Microsoft YaHei, sans-serif">不是简历，也不是摆设</text>
+  <text x="686" y="228" fill="#45504A" font-size="22" font-family="Segoe UI, Microsoft YaHei, sans-serif">更像一个会呼吸的个人角落</text>
+  <rect x="636" y="328" width="540" height="246" rx="28" fill="#4566C4" fill-opacity="0.12"/>
+  <path d="M714 402H1098" stroke="#4566C4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M714 454H1042" stroke="#4566C4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M714 506H958" stroke="#4566C4" stroke-width="8" stroke-linecap="round"/>
+  <rect x="104" y="444" width="470" height="380" rx="28" fill="#FFFDF7" stroke="#D6CAB8" stroke-width="4"/>
+  <text x="152" y="532" fill="#17201B" font-size="32" font-family="Palatino Linotype, STSong, serif">Now / Notes / Questions</text>
+  <text x="152" y="590" fill="#45504A" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif">把你最近在想什么留下来</text>
+  <circle cx="1032" cy="726" r="96" fill="#B8573D" fill-opacity="0.18"/>
+  <circle cx="910" cy="762" r="56" fill="#C8A54A" fill-opacity="0.28"/>
+  <path d="M716 694C774 744 858 770 948 770C1022 770 1088 752 1138 714" stroke="#1F6B54" stroke-width="10" stroke-linecap="round"/>
+</svg>

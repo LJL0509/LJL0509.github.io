@@ -1,0 +1,19 @@
+<svg width="1280" height="960" viewBox="0 0 1280 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="960" rx="42" fill="#EEF2FB"/>
+  <rect x="72" y="84" width="1136" height="792" rx="34" fill="#FDFBF6" stroke="#D8D4CA" stroke-width="4"/>
+  <circle cx="286" cy="260" r="118" fill="#1F6B54" fill-opacity="0.12"/>
+  <circle cx="950" cy="226" r="96" fill="#B8573D" fill-opacity="0.14"/>
+  <circle cx="908" cy="668" r="140" fill="#4566C4" fill-opacity="0.14"/>
+  <circle cx="352" cy="678" r="110" fill="#C8A54A" fill-opacity="0.2"/>
+  <path d="M284 262C410 234 502 250 598 324C706 406 824 434 952 396" stroke="#17201B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M352 680C454 596 552 554 654 556C758 558 858 600 958 698" stroke="#17201B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M284 262C336 406 382 510 484 596" stroke="#17201B" stroke-width="8" stroke-linecap="round"/>
+  <rect x="172" y="150" width="266" height="92" rx="22" fill="#FFFDF7" stroke="#D8D4CA" stroke-width="3"/>
+  <text x="208" y="207" fill="#17201B" font-size="28" font-family="Segoe UI, Microsoft YaHei, sans-serif">我真正想留下什么？</text>
+  <rect x="776" y="148" width="286" height="92" rx="22" fill="#FFFDF7" stroke="#D8D4CA" stroke-width="3"/>
+  <text x="812" y="205" fill="#17201B" font-size="28" font-family="Segoe UI, Microsoft YaHei, sans-serif">什么会让我反复回来？</text>
+  <rect x="840" y="626" width="288" height="92" rx="22" fill="#FFFDF7" stroke="#D8D4CA" stroke-width="3"/>
+  <text x="878" y="684" fill="#17201B" font-size="28" font-family="Segoe UI, Microsoft YaHei, sans-serif">什么值得慢慢做完？</text>
+  <rect x="214" y="620" width="252" height="92" rx="22" fill="#FFFDF7" stroke="#D8D4CA" stroke-width="3"/>
+  <text x="252" y="678" fill="#17201B" font-size="28" font-family="Segoe UI, Microsoft YaHei, sans-serif">我会成为什么样的人？</text>
+</svg>
