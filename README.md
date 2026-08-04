@@ -6,6 +6,28 @@
 
 > 我是谁 -> 我相信什么 -> 我怎样成长 -> 我沉淀了哪些方法 -> 我怎样生活
 
+## 项目目录
+
+```text
+project-root/
+|-- index.html          # 首页，部署时必须保留在根目录
+|-- about.html          # 关于我
+|-- efforts.html        # 成长记录
+|-- results.html        # 方法记录
+|-- fragments.html      # 生活碎片
+|-- assets/             # 插图和生活照片
+|   `-- fragments/      # 生活碎片使用的照片
+|-- css/                # 全站样式
+|-- js/                 # 导航、页脚和动画
+|-- docs/               # 维护说明与开发记录
+|   |-- MAINTENANCE.md
+|   |-- SITE-PLAN.md
+|   `-- screenshots/    # 页面检查截图
+`-- README.md           # 项目说明
+```
+
+日常更新网站时，可以先看[维护指南](docs/MAINTENANCE.md)；需要回顾网站定位时，可以看[站点规划](docs/SITE-PLAN.md)。
+
 ## 页面结构
 
 | 页面 | 文件 | 职责 |
