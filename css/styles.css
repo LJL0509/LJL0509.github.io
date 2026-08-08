@@ -265,6 +265,35 @@ p { line-height: 1.82; }
 .effort-main > p:not(.eyebrow),
 .result-copy > p:not(.eyebrow),
 .empty-result > p:not(.eyebrow) { color: var(--ink-soft); font-size: 1.06rem; }
+.effort-reflection-opening {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 260px);
+  gap: 32px;
+  align-items: start;
+  margin-top: 26px;
+}
+.effort-reflection-opening > div > p:first-child { margin-bottom: 24px; }
+.reflection-quote {
+  margin: 0;
+  color: var(--green) !important;
+  font-family: "Palatino Linotype", "Book Antiqua", "STSong", serif;
+  font-size: 1.55rem !important;
+  line-height: 1.35;
+}
+.effort-reflection-figure { margin: 0; }
+.effort-reflection-figure img {
+  width: 100%;
+  height: 360px;
+  object-fit: contain;
+  border: 1px solid var(--line-strong);
+  background: #17130f;
+}
+.effort-reflection-figure figcaption {
+  margin-top: 10px;
+  color: var(--ink-faint);
+  font-size: 0.84rem;
+  line-height: 1.55;
+}
 .plain-list { margin: 26px 0 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
 .plain-list li { padding: 12px 0; border-bottom: 1px solid var(--line); }
 .honest-note { margin-top: 24px; padding: 14px 16px; color: var(--ink) !important; background: rgba(227, 187, 80, 0.22); border-left: 3px solid var(--yellow); font-size: 0.95rem !important; }
@@ -503,6 +532,8 @@ p { line-height: 1.82; }
   .aspiration-section { gap: 22px; }
   .aspiration-copy { padding-top: 0; }
   .aspiration-details div { grid-template-columns: 1fr; gap: 5px; }
+  .effort-reflection-opening { grid-template-columns: 1fr; gap: 24px; }
+  .effort-reflection-figure { max-width: 280px; }
   .tag-cloud-section { display: block; padding-block: 44px; }
   .tag-cloud-section .eyebrow { margin-bottom: 14px; }
   .effort-entry { grid-template-columns: 1fr; gap: 24px; }
