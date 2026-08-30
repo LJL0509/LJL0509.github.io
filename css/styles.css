@@ -522,6 +522,16 @@ p { line-height: 1.82; }
 }
 .photo-pair-tavern img { height: 480px; }
 .photo-pair-tavern img:last-child { object-fit: contain; }
+.photo-pair-reflection {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  padding: 18px;
+  background: #d9e8e7;
+}
+.photo-pair-reflection img {
+  height: 620px;
+  object-fit: contain;
+  background: #f7f5ec;
+}
 .update-note ol { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line-strong); }
 .update-note li { display: grid; grid-template-columns: 46px 1fr; gap: 16px; padding: 18px 0; border-bottom: 1px solid var(--line-strong); }
 .update-note li span { color: var(--red); }
@@ -605,6 +615,8 @@ p { line-height: 1.82; }
   .photo-travel-grid img:nth-child(3),
   .photo-travel-grid img:nth-child(4) { grid-column: auto; grid-row: auto; height: auto; }
   .photo-pair { grid-template-columns: 1fr; }
+  .photo-pair-reflection { padding: 10px; }
+  .photo-pair-reflection img { height: auto; max-height: none; }
   .photo-strip img,
   .photo-strip img:first-child,
   .photo-strip img:last-child,
