@@ -423,6 +423,24 @@ p { line-height: 1.82; }
 .fragment-card-photo h2 {
   max-width: 760px;
 }
+.diary-entry { min-width: 0; }
+.diary-entry h2 { line-height: 1.35; }
+.diary-original {
+  max-width: 780px;
+  margin: 28px auto 0;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  color: var(--ink-soft);
+  line-height: 2;
+}
+.diary-summary {
+  margin-top: 24px;
+  padding-block: 16px;
+  border-block: 1px solid var(--line);
+}
+.diary-summary summary { cursor: pointer; color: var(--green); }
+.diary-summary summary:focus-visible { outline: 2px solid var(--green); outline-offset: 5px; }
+.diary-summary p { max-width: 780px; margin: 16px 0 0; }
 .photo-strip {
   display: grid;
   grid-template-columns: 0.8fr 1.25fr 0.8fr;
